@@ -68,6 +68,3 @@ https://github.com/AshishRajIITI/Misc-6-Infinity-Remote/blob/713354ed326e67a0277
 <img src="https://github.com/AshishRajIITI/Misc-6-Infinity-Remote/blob/87a3027b7bccbb2c48e5cac2398111ba36df766c/Screenshots/Remote-Panels.png" width="250" alt="Remote-Navigation">
 <img src="https://github.com/AshishRajIITI/Misc-6-Infinity-Remote/blob/87a3027b7bccbb2c48e5cac2398111ba36df766c/Screenshots/Remote-video-light.png" width="250" alt="Remote controlling Youtube Video">
 <img src="https://github.com/AshishRajIITI/Misc-6-Infinity-Remote/blob/87a3027b7bccbb2c48e5cac2398111ba36df766c/Screenshots/Extension-Video.png" width="900" alt="Video being controlled by Remote">
-
-
-
